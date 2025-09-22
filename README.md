@@ -1,4 +1,4 @@
-# this is a presentation on Contributing to React
+# This is a presentation on Contributing to React
 
 Notes on contributing to react. See the presentation live at <https://sw-yx.github.io/react-contributing/#/> or with server sync at <http://react-contribute.surge.sh>
 
@@ -16,9 +16,6 @@ Please contact me on twitter if you want mentorship on your first React contribu
 - [Getting Started](#getting-started)
 - [Build & Deployment](#build-deployment)
 
-## Reference
-
-The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.md](https://github.com/FormidableLabs/spectacle/blob/master/README.md).
 
 ## Getting Started
 
