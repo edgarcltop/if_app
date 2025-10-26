@@ -1,4 +1,4 @@
-# This is a presentation on Contributing to React
+# IfApp
 
 Notes on contributing to react. See the presentation live atr with server sync at 
 
